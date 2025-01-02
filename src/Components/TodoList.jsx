@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./TodoList.css"; // Import the CSS file
+import "./TodoList.css"; 
 
 const TodoList = () => {
   const [inputText, setInputText] = useState("");
